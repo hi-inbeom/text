@@ -6,10 +6,9 @@ CatchMind는 온라인 매칭 사이트를 목표로 KH정보교육원 '공공�
 
 ## 목차
 > [TEAM](#-TEAM) <br/>
-> [동기](#-동기) 
-> [주요기능](#-주요기능) 
+> [MOTIVATION](#-MOTIVATION) 
+> [FEATURES](#-FEATURES) 
 > [개발환경](#-개발환경) 
-> [팀원소개](#-팀원소개) 
 > [END](#-END) 
 
 ## TEAM
@@ -19,12 +18,12 @@ CatchMind는 온라인 매칭 사이트를 목표로 KH정보교육원 '공공�
 조인범 : https://github.com/hi-inbeom
 지수빈 : 
 
-## 동기
+## MOTIVATION
 (엄청난 이유)로 인해서 해당 사이트 하기로 했다.
 해당 사이트를 설계 단계 때 해당 문제점들을 발견하여 구현 시 개선하기로 했다.
 (사이트분석-단점)
 
-## 주요 기능
+## FEATURES
 뢀뢀
 
 ## 개발환경
